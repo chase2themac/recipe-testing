@@ -2,7 +2,7 @@ language: node_js
 node_js: node
 deploy:
   provider: heroku
-  edge: true
+
   api_key:
     secure: cs2VCOnS0OxPXxM/GvqFWyvao7wOfyUypj/AnWKbuO/Qf2u3T0hQLnZDfD8JCZjKtQ6s9yb4VxeykuTRFXRw7B973E/xcfD1eIscT9oXzosb5UKmciphXpEcr1nq1sOjyL2mLKOFvCMkFXPODcNExUV3KTYIzRglyfgVjW96UyY9cPT8eiGCHg3/yU/1fQfXFeVOEfYiT41YmTJckF58v5M3GQyChME+10I8paGEIW2NYjdIF8o+02e9rob4Tgzb1N0VMJcSU7orP6cC0TlrUJ+z1ws+q/2Rv3rVz6DxOd7/h2Ck6DXouj6i99jZbh8u6YBbK2DW3mFP6k4IjeMQvcDuQlolmafUqPdVA8CCncF3cnQ/D9eAtscbOYfiE+3mnGfibSNIs4/8o6AOgBiMxTALzwVXLFbsE4HFtYaqzNUPuXvYMg5RNKNoBV4KSXr0mjuDQ1pE7XFw82A9qvtJHS5R4+ZzkVrnw5WnCOZZQeeLOpyRPeVxm2xXmyV5MlAVy80S2H6zxlkd2K9Z3nXQU7aiCJ7HdZYmdM+CiB3vvlOBdsXmrh+/0ip+Sj5OtjbD0WOK59o0AgdivHFxw5GpwkS6M1LIoA1EiwPXz7EpkHbRRvf6xrIFQWT+I0ucnbEADBP2cH5a+/TpG6ILVrmfo0SjNRjIhZrr0/RP+F6ulAE=
   app:  pure-retreat-34761
